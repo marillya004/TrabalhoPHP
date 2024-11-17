@@ -13,24 +13,31 @@ exame e a quantidade que aquele exame foi realizado em determinado mês. Assim, 
 <br>
 
 <h1>Resultado esperado:</h1>
+
 INÍCIO
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_192629_localhost.jpeg" alt="inicio">
+![Captura de tela_17-11-2024_192629_localhost](https://github.com/user-attachments/assets/06637e83-0706-4db7-ad1d-bdc09c0576bd)
+
+
 
 CADASTRO
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_192849_localhost.jpeg" alt="cadastro">
+![Captura de tela_17-11-2024_192849_localhost](https://github.com/user-attachments/assets/d6967aab-dd55-4d51-81e2-ac2dafb6f75f)
+
 
 TABELA DA CONSULTA
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_192914_localhost.jpeg" alt="tabela">
+![Captura de tela_17-11-2024_192914_localhost](https://github.com/user-attachments/assets/00d095f2-6798-486d-9e50-5d82d39f4e49)
+
 
 RELATÓRIO
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_192937_localhost.jpeg" alt="relatorio">
+![Captura de tela_17-11-2024_192937_localhost](https://github.com/user-attachments/assets/5aa69dae-032e-4894-aa3f-30df5f95f960)
+
 
 TABELA RELATÓRIO
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_192955_localhost.jpeg" alt="tabela2">
+![Captura de tela_17-11-2024_192955_localhost](https://github.com/user-attachments/assets/db214710-8e6a-49de-87db-eb6729b076f3)
 
 
 GRÁFICO
-<img src="C:\Users\USER\Downloads\Captura de tela_17-11-2024_193813_localhost.jpeg" alt="grafico">
+![Captura de tela_17-11-2024_193813_localhost](https://github.com/user-attachments/assets/2e4588fa-cc9e-4c8b-a542-644127e8ef48)
+
 
 
 
