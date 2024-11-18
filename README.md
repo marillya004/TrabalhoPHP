@@ -12,6 +12,30 @@ exame e a quantidade que aquele exame foi realizado em determinado mês. Assim, 
 </div>
 <br>
 
+## Modelo conceitual
+![Captura de tela_18-11-2024_18329_](https://github.com/user-attachments/assets/ecc7b644-daf4-4fd3-9665-3ba766641115)
+
+## Modelo Lógico
+![image](https://github.com/user-attachments/assets/85115d11-9afc-4845-9921-a5f4329bce30)
+
+## Modelo Físico (SQL)
+CREATE TABLE paciente 
+( 
+ id_paciente INT PRIMARY KEY,  
+ nome VARCHAR(n),  
+ sobrenome VARCHAR(n),  
+ data_consulta DATE,  
+ email VARCHAR(n),  
+ medico VARCHAR(n),  
+); 
+
+CREATE TABLE consulta 
+( 
+ tipo_exame VARCHAR(n),  
+ quantidade INT NOT NULL,  
+ mes VARCHAR(n) NOT NULL,  
+); 
+
 <h1>Resultado esperado:</h1>
 
 INÍCIO
